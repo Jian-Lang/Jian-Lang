@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Jian+Lang.;+Welcome+to+My+Github!;+I'm+interested+in+Incomplete+Multi-modal+learning!;+Feel+free+to+ask+me+any+questions!)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=edge&logoColor=FFFFFF)](https://Jian-Lang.github.io/)
+[![](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=edge&logoColor=FFFFFF)](https://jianlang.org/)
 [![](https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=tEVL8eUAAAAJ)
 [![](https://img.shields.io/github/stars/Jian-Lang?style=for-the-badge&logo=github&label=Stars&labelColor=000000&color=FFFFFF)](https://github.com/Jian-Lang)
 
