@@ -7,9 +7,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jian-Lang&theme=default" alt="GitHub profile overview" border="0"></td>
+    <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jian-Lang&theme=default" alt="GitHub profile overview" width="100%" border="0"></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://jianlang.org/"><img src="assets/research-focus.svg" alt="Research Focus: Robust Multimodal Learning; Personalized MLLM Assistants; Long-Horizon Interactions" border="0"></a></td>
     <td align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=Jian-Lang&amp;show_icons=true&amp;hide_title=true&amp;rank_icon=default" alt="GitHub statistics with rank" border="0"></td>
   </tr>
 </table>
