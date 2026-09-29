@@ -16,5 +16,5 @@
 </table>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Jian-Lang&amp;label=Profile%20views&amp;color=36bcf7&amp;style=flat" alt="Jian-Lang" /></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Jian-Lang.Jian-Lang" alt="Jian-Lang" /></p>
 
