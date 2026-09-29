@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jian-Lang&theme=default" alt="GitHub statistics" border="0"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jian-Lang&theme=default" alt="Top languages by repository count" border="0"></td>
+    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=Jian-Lang&amp;show_icons=true&amp;hide_title=true&amp;rank_icon=default" alt="GitHub statistics with rank" border="0"></td>
   </tr>
 </table>
 
