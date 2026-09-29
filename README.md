@@ -7,14 +7,9 @@
 
 <table>
   <tr>
-    <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jian-Lang&theme=default" alt="GitHub profile overview" border="0"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jian-Lang&theme=default" alt="GitHub profile overview" border="0"></td>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jian-Lang&theme=default" alt="GitHub statistics" border="0"></td>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=Jian-Lang&amp;show_icons=true&amp;hide_title=true&amp;rank_icon=default" alt="GitHub statistics with rank" border="0"></td>
+    <td align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=Jian-Lang&amp;show_icons=true&amp;hide_title=true&amp;rank_icon=default" alt="GitHub statistics with rank" border="0"></td>
   </tr>
 </table>
-
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Jian-Lang.Jian-Lang" alt="Jian-Lang" /></p>
-
